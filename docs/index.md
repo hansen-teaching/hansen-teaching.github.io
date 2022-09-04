@@ -5,7 +5,6 @@
 layout: home
 ---
 
----
 title: All Posts
 ---
 Blah, blah, blah
