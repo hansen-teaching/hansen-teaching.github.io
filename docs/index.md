@@ -5,6 +5,9 @@
 layout: home
 ---
 
-title: All Posts
----
-Blah, blah, blah
+-# Welcome to my blog
++---
++title: “Welcome to my blog”
++---
+
+I’m glad you are here. I plan to talk about …
