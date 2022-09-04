@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# This is the index! 
+# All Posts 
