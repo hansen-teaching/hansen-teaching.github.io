@@ -23,11 +23,11 @@ email: hansen.teaching@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ESOL content for students and teachers. Learn academic and business
   English from a native speaker with experience in science and tech.
-  [Buy Me a Coffee](https://www.buymeacoffee.com/mhteaching)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  hansen-teaching
+[Buy Me a Coffee](https://www.buymeacoffee.com/mhteaching)
 
 # Build settings
 theme: minima
