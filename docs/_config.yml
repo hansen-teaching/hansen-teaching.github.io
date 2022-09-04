@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Madison Hansen
+title: Hansen Teaching
 email: hansen.teaching@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ESOL content for students and teachers. Learn academic and business
