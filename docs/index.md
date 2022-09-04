@@ -5,4 +5,7 @@
 layout: home
 ---
 
-# All Posts 
+---
+title: All Posts
+---
+Blah, blah, blah
