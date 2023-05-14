@@ -10,14 +10,14 @@ url: "https://hansen-teaching.github.io" # the base hostname & protocol for your
 author: Madison Hansen # add your name
 author-img: Madison Hansen - Author Photo.png # add your photo
 about-author: a Math Tutor & ESL Instructor based in Washington, DC. I have 11 years of experience in tutoring, teaching, data science, and biology research.  I am also passionate about music, dance, and international travel. # add description
-social-twitter: madison_io # add your Twitter handle
-social-facebook: madisonhhansen # add your Facebook handle
-social-github: madison-io # ig handle
-social-linkedin: madhansen # add your Linkedin handle
-social-email: hansen@madison.io # add your Email address
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: # ig handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
 
 Disqus
-discus-identifier: Madison Hansen # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
