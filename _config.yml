@@ -1,25 +1,23 @@
-title: Hello, world! I'm David Freeman
+title: Rhiannon Payne
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Rhiannon Payne is an SF-based entrepreneur, startup consultant, writer, & speaker. Currently writing a book titled "The Remote Work Era."
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rhiannon-io.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: "https://twitter.com/rhiannon_io" #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Rhiannon Payne # add your name
+author-img: Rhiannon Payne - Author Photo.png # add your photo
+about-author: I'm a San Francisco-based entrepreneur, startup consultant, writer, speaker, & adventurer. In 2017 I founded <a href="https://seafoam.media" target="_blank">Sea Foam Media & Technology</a> to help startups tell their stories & build exciting products. I am also passionate about <a href="https://remoteworkera.com" target="_blank">The Remote Work Era</a>, with a book to be published in 2020. # add description
+social-twitter: rhiannon_io # add your Twitter handle
+social-facebook: rhiannonmarypayne # add your Facebook handle
+social-github: rhiannon-io # ig handle
+social-linkedin: rhipayne # add your Linkedin handle
+social-email: payne@rhiannon.io # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Rhiannon Payne # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
