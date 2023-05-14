@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 8 Tools for Growing Your Remote Business
-date: 2019-02-27 01:00:00 +0300
-description: The future of work and business is here, and it’s remote. # Add post description (optional)
+title: Algebra I Tutoring in a Public Charter School
+date: 2022-11-04 01:00:00 +0300
+description: My first full-time job in education. # Add post description (optional)
 img: besttoolsforremotework.jpg # Add image post (optional)
-tags: [remote, remote work, tools, task management, project management, entrepreneurship] # add tag
+# tags: [remote, remote work, tools, task management, project management, entrepreneurship] # add tag
 ---
-**The future of work and business is here, and it’s remote.**
+**My first full-time job in education.**
 
 As we look to the 2020s, we’re seeing start-ups and corporate giants alike move toward remote, distributed teams. In fact, a study by [UpWork](https://www.upwork.com/i/future-workforce/fw/2018){:target="_blank"} shows that 55% of hiring managers anticipate more than one-third of their full-time employees to be working remotely within the next decade.
 
