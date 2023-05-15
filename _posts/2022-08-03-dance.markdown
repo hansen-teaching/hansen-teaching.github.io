@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Taking Dance Classes"
+date: 2022-08-03 15:13:18 +0200
+image: 12.jpg
+tags: [jekyll, docs]
+categories: jekyll
+---
+I started taking dance classes again after several years of hiatus. I am very rusty, but always improving. I am also trying new styles that I hadn't tried before, such as hip-hop and K-pop styles. I don't have any performance videos to post yet, but hopefully someday I will. Until then, I'm enjoying the fun music, cardio exercise, and meeting new friends.
