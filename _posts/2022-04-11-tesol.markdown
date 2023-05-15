@@ -2,8 +2,8 @@
 layout: post
 title: "TESOL Certification"
 date: 2022-04-11 15:13:18 +0200
-image: 12.jpg
-tags: [jekyll, docs]
-categories: jekyll
+image: cert.jpeg
+tags: [teaching, ESL]
+categories: teaching
 ---
 I completed a TESOL (Teaching English to Speakers of Other Languages) certification course. I learned a lot about advanced English grammar and ESL teaching methodologies. I also taught 2 guest class sessions and gave private tutoring sesisons to 3 students as part of my training. 
