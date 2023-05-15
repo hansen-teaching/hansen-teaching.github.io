@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Algebra I Tutor in a Public Charter School"
+date: 2022-11-04 15:13:18 +0200
+image: 12.jpg
+tags: [jekyll, docs]
+categories: jekyll
+---
+I tutor 6 small groups of 2-4 students 2 days per week at a local public charter school. At this school, all students have a double block of math class, which allows for them to receive all the regular lectures from their lead teacher while also having extra time with for tutoring and independent practice. On tutoring days, my job is to assess the skill levels of the students in my group, identify any learning gaps they may have, and prepare a lesson and practice problems to help fill those gaps. On non-tutoring days, I act as an assistant to the lead teacher, observe the material the students are being taught, and take note of any common mistakes my students might be making. The goal is to get more students back from below grade level to at grade level. 
