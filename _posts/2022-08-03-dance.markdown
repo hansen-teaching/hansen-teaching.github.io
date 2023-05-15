@@ -2,7 +2,7 @@
 layout: post
 title: "Taking Dance Classes"
 date: 2022-08-03 15:13:18 +0200
-image: kpop.png
+image: kpop2.png
 tags: [dance, music]
 categories: dance
 ---
