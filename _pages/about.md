@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-first paragraph. 
-
 Math
 ------
 One section of 5th-6th grade math. Students work independently at their own pace as teachers help them with topics such as fractions, number sense, geometry, ratios, data/probability, and pre-algebra. 
