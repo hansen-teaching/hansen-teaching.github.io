@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Madison Hansen"
+title                    : "Hansen Teaching"
 title_separator          : "-"
 name                     : &name "Madison Hansen"
 description              : &description "STEM Teacher"
