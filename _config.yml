@@ -216,6 +216,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  operations:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
