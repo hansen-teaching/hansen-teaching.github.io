@@ -9,6 +9,10 @@ redirect_from:
 
 Hi, I'm Madison Hansen, and this is my website. 
 
+Teaching 
+======
+I taught and tutored on-and-off for eleven years. Then, two years ago, I started my teaching career. I teach multiple subjects, including math, science, engineering, English, English for Speakers of Other Languages, and Physical Education. 
+
 Portfolio 
 ======
 ?
