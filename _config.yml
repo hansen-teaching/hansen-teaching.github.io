@@ -219,15 +219,18 @@ collections:
   operations:
     output: true
     permalink: /:collection/:path/
-  publications:
+  curriculum:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -289,6 +292,14 @@ defaults:
   - scope:
       path: ""
       type: operations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _curriculum
+  - scope:
+      path: ""
+      type: curriculum
     values:
       layout: single
       author_profile: true
